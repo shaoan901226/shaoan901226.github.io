@@ -1,4 +1,4 @@
-# shaoan901226.github.i
+# 九九乘法表
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,7 +12,7 @@
         }
 
         th {
-            background-color: #4846c7;
+            background-color: #109ef0;
         }
         td,th {
             border: 1px solid black;
@@ -22,7 +22,7 @@
         }
 
             td:hover {
-                background-color: #4846c7;
+                background-color: #109ef0;
             }
     </style>
 </head>
